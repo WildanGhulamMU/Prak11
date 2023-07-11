@@ -1,0 +1,15 @@
+C:\Users\ASUS-A407UF\Prak11\bin\Debug\net7.0\Prak11.exe
+C:\Users\ASUS-A407UF\Prak11\bin\Debug\net7.0\Prak11.deps.json
+C:\Users\ASUS-A407UF\Prak11\bin\Debug\net7.0\Prak11.runtimeconfig.json
+C:\Users\ASUS-A407UF\Prak11\bin\Debug\net7.0\Prak11.dll
+C:\Users\ASUS-A407UF\Prak11\bin\Debug\net7.0\Prak11.pdb
+C:\Users\ASUS-A407UF\Prak11\obj\Debug\net7.0\Prak11.csproj.AssemblyReference.cache
+C:\Users\ASUS-A407UF\Prak11\obj\Debug\net7.0\Prak11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS-A407UF\Prak11\obj\Debug\net7.0\Prak11.AssemblyInfoInputs.cache
+C:\Users\ASUS-A407UF\Prak11\obj\Debug\net7.0\Prak11.AssemblyInfo.cs
+C:\Users\ASUS-A407UF\Prak11\obj\Debug\net7.0\Prak11.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-A407UF\Prak11\obj\Debug\net7.0\Prak11.dll
+C:\Users\ASUS-A407UF\Prak11\obj\Debug\net7.0\refint\Prak11.dll
+C:\Users\ASUS-A407UF\Prak11\obj\Debug\net7.0\Prak11.pdb
+C:\Users\ASUS-A407UF\Prak11\obj\Debug\net7.0\Prak11.genruntimeconfig.cache
+C:\Users\ASUS-A407UF\Prak11\obj\Debug\net7.0\ref\Prak11.dll
